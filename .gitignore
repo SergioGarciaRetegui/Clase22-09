@@ -1,1 +1,7 @@
+# extensiones de archivos
 *.log
+*.json
+
+#Carpetas ignoradas
+
+logs/
